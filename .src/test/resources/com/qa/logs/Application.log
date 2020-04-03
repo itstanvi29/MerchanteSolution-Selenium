@@ -1,0 +1,50 @@
+03/04/2020 13:53:08 devpinoyLogger Config file loaded !!!!
+03/04/2020 13:53:08 devpinoyLogger OR file loaded !!!
+03/04/2020 13:53:14 devpinoyLogger Chrome browser launched.
+03/04/2020 13:53:15 devpinoyLogger Navigated to : http://qainterview.merchante-solutions.com/admin
+03/04/2020 13:53:19 devpinoyLogger TESTCASES02FILTERUSER  STARTED : 
+03/04/2020 13:53:20 devpinoyLogger clickClearFilter called :: clearfilter clicked
+03/04/2020 13:53:20 devpinoyLogger selectUserNamefilter called ::user filter used :: username_contains
+03/04/2020 13:53:20 devpinoyLogger enterUserName called ::user value used :: Sam
+03/04/2020 13:53:20 devpinoyLogger selectEmailfilter called ::email filter used :: email_contains
+03/04/2020 13:53:20 devpinoyLogger enterEmail called ::email value used :: Sam
+03/04/2020 13:53:20 devpinoyLogger enterCreateFromDateValue start
+03/04/2020 13:53:22 devpinoyLogger enterCreateFromDateValue called ::startDate value used :: 10-02-2020
+03/04/2020 13:53:22 devpinoyLogger enterCreateEndDateValue start
+03/04/2020 13:53:22 devpinoyLogger enterCreateEndDateValue called ::endDate value used :: 10-07-2020
+03/04/2020 13:53:23 devpinoyLogger clickFilter called :: submitfilter clicked
+03/04/2020 13:53:23 devpinoyLogger getDataCount called :: no of userDataDispalyed :: 13
+03/04/2020 13:53:23 devpinoyLogger TESTCASES02FILTERUSER  PASS : 
+03/04/2020 13:53:23 devpinoyLogger TESTCASES02FILTERUSER  STARTED : 
+03/04/2020 13:53:23 devpinoyLogger clickClearFilter called :: clearfilter clicked
+03/04/2020 13:53:23 devpinoyLogger selectUserNamefilter called ::user filter used :: username_contains
+03/04/2020 13:53:23 devpinoyLogger enterUserName called ::user value used :: Sam
+03/04/2020 13:53:23 devpinoyLogger selectEmailfilter called ::email filter used :: email_contains
+03/04/2020 13:53:24 devpinoyLogger enterEmail called ::email value used :: Sam
+03/04/2020 13:53:24 devpinoyLogger enterCreateFromDateValue start
+03/04/2020 13:53:24 devpinoyLogger enterCreateFromDateValue called ::startDate value used :: 10-04-2020
+03/04/2020 13:53:24 devpinoyLogger enterCreateEndDateValue start
+03/04/2020 13:53:24 devpinoyLogger enterCreateEndDateValue called ::endDate value used :: 10-05-2020
+03/04/2020 13:53:24 devpinoyLogger clickFilter called :: submitfilter clicked
+03/04/2020 13:53:34 devpinoyLogger getDataCount called :: no of userDataDispalyed :: 0
+03/04/2020 13:53:34 devpinoyLogger TESTCASES02FILTERUSER  PASS : 
+03/04/2020 13:53:34 devpinoyLogger VERIFYNEWUSERPAGELAUNCH  STARTED : 
+03/04/2020 13:53:35 devpinoyLogger getTitle ::New User | Active Admin Depot
+03/04/2020 13:53:35 devpinoyLogger VERIFYNEWUSERPAGELAUNCH  PASS : 
+03/04/2020 13:53:35 devpinoyLogger VERIFYCANCELBUTTON  STARTED : 
+03/04/2020 13:53:35 devpinoyLogger clickCancelUser called :: cancelButtonclicked
+03/04/2020 13:53:35 devpinoyLogger getTitle ::Users | Active Admin Depot
+03/04/2020 13:53:35 devpinoyLogger VERIFYCANCELBUTTON  PASS : 
+03/04/2020 13:53:35 devpinoyLogger TESTCASE01NEWUSERCREATE  STARTED : 
+03/04/2020 13:53:36 devpinoyLogger enterUserDetails called :: values entered :: sdf Sa23412 Ssdf@gmail.com
+03/04/2020 13:53:36 devpinoyLogger clickCreateUser called :: createButtonclicked
+03/04/2020 13:53:36 devpinoyLogger getUserName called ::sdf
+03/04/2020 13:53:36 devpinoyLogger fetchUserCreateMsg called ::User was successfully created.
+03/04/2020 13:53:36 devpinoyLogger TESTCASE01NEWUSERCREATE  PASS : 
+03/04/2020 13:53:36 devpinoyLogger TESTCASE01NEWUSERCREATE  STARTED : 
+03/04/2020 13:53:37 devpinoyLogger enterUserDetails called :: values entered :: fdsdf Samya2q314y sdf@gmail.com
+03/04/2020 13:53:37 devpinoyLogger clickCreateUser called :: createButtonclicked
+03/04/2020 13:53:38 devpinoyLogger getUserName called ::fdsdf
+03/04/2020 13:53:38 devpinoyLogger fetchUserCreateMsg called ::User was successfully created.
+03/04/2020 13:53:38 devpinoyLogger TESTCASE01NEWUSERCREATE  PASS : 
+03/04/2020 13:53:38 devpinoyLogger  browser quit !!.

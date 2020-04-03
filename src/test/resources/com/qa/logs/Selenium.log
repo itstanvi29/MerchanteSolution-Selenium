@@ -1,0 +1,50 @@
+13:53:08,703 DEBUG devpinoyLogger:43 - Config file loaded !!!!
+13:53:08,706 DEBUG devpinoyLogger:56 - OR file loaded !!!
+13:53:14,054 DEBUG devpinoyLogger:72 - Chrome browser launched.
+13:53:15,212 DEBUG devpinoyLogger:85 - Navigated to : http://qainterview.merchante-solutions.com/admin
+13:53:19,439 DEBUG devpinoyLogger:29 - TESTCASES02FILTERUSER  STARTED : 
+13:53:20,308 DEBUG devpinoyLogger:115 - clickClearFilter called :: clearfilter clicked
+13:53:20,440 DEBUG devpinoyLogger:23 - selectUserNamefilter called ::user filter used :: username_contains
+13:53:20,550 DEBUG devpinoyLogger:28 - enterUserName called ::user value used :: Sam
+13:53:20,602 DEBUG devpinoyLogger:34 - selectEmailfilter called ::email filter used :: email_contains
+13:53:20,666 DEBUG devpinoyLogger:40 - enterEmail called ::email value used :: Sam
+13:53:20,666 DEBUG devpinoyLogger:45 - enterCreateFromDateValue start
+13:53:22,010 DEBUG devpinoyLogger:72 - enterCreateFromDateValue called ::startDate value used :: 10-02-2020
+13:53:22,010 DEBUG devpinoyLogger:77 - enterCreateEndDateValue start
+13:53:22,704 DEBUG devpinoyLogger:105 - enterCreateEndDateValue called ::endDate value used :: 10-07-2020
+13:53:23,091 DEBUG devpinoyLogger:110 - clickFilter called :: submitfilter clicked
+13:53:23,155 DEBUG devpinoyLogger:122 - getDataCount called :: no of userDataDispalyed :: 13
+13:53:23,158 DEBUG devpinoyLogger:34 - TESTCASES02FILTERUSER  PASS : 
+13:53:23,158 DEBUG devpinoyLogger:29 - TESTCASES02FILTERUSER  STARTED : 
+13:53:23,701 DEBUG devpinoyLogger:115 - clickClearFilter called :: clearfilter clicked
+13:53:23,844 DEBUG devpinoyLogger:23 - selectUserNamefilter called ::user filter used :: username_contains
+13:53:23,899 DEBUG devpinoyLogger:28 - enterUserName called ::user value used :: Sam
+13:53:23,948 DEBUG devpinoyLogger:34 - selectEmailfilter called ::email filter used :: email_contains
+13:53:24,014 DEBUG devpinoyLogger:40 - enterEmail called ::email value used :: Sam
+13:53:24,014 DEBUG devpinoyLogger:45 - enterCreateFromDateValue start
+13:53:24,238 DEBUG devpinoyLogger:72 - enterCreateFromDateValue called ::startDate value used :: 10-04-2020
+13:53:24,239 DEBUG devpinoyLogger:77 - enterCreateEndDateValue start
+13:53:24,538 DEBUG devpinoyLogger:105 - enterCreateEndDateValue called ::endDate value used :: 10-05-2020
+13:53:24,724 DEBUG devpinoyLogger:110 - clickFilter called :: submitfilter clicked
+13:53:34,767 DEBUG devpinoyLogger:122 - getDataCount called :: no of userDataDispalyed :: 0
+13:53:34,767 DEBUG devpinoyLogger:34 - TESTCASES02FILTERUSER  PASS : 
+13:53:34,781 DEBUG devpinoyLogger:29 - VERIFYNEWUSERPAGELAUNCH  STARTED : 
+13:53:35,257 DEBUG devpinoyLogger:16 - getTitle ::New User | Active Admin Depot
+13:53:35,258 DEBUG devpinoyLogger:34 - VERIFYNEWUSERPAGELAUNCH  PASS : 
+13:53:35,258 DEBUG devpinoyLogger:29 - VERIFYCANCELBUTTON  STARTED : 
+13:53:35,532 DEBUG devpinoyLogger:37 - clickCancelUser called :: cancelButtonclicked
+13:53:35,608 DEBUG devpinoyLogger:16 - getTitle ::Users | Active Admin Depot
+13:53:35,608 DEBUG devpinoyLogger:34 - VERIFYCANCELBUTTON  PASS : 
+13:53:35,609 DEBUG devpinoyLogger:29 - TESTCASE01NEWUSERCREATE  STARTED : 
+13:53:36,600 DEBUG devpinoyLogger:25 - enterUserDetails called :: values entered :: sdf Sa23412 Ssdf@gmail.com
+13:53:36,798 DEBUG devpinoyLogger:31 - clickCreateUser called :: createButtonclicked
+13:53:36,839 DEBUG devpinoyLogger:21 - getUserName called ::sdf
+13:53:36,862 DEBUG devpinoyLogger:28 - fetchUserCreateMsg called ::User was successfully created.
+13:53:36,862 DEBUG devpinoyLogger:34 - TESTCASE01NEWUSERCREATE  PASS : 
+13:53:36,862 DEBUG devpinoyLogger:29 - TESTCASE01NEWUSERCREATE  STARTED : 
+13:53:37,810 DEBUG devpinoyLogger:25 - enterUserDetails called :: values entered :: fdsdf Samya2q314y sdf@gmail.com
+13:53:37,998 DEBUG devpinoyLogger:31 - clickCreateUser called :: createButtonclicked
+13:53:38,041 DEBUG devpinoyLogger:21 - getUserName called ::fdsdf
+13:53:38,061 DEBUG devpinoyLogger:28 - fetchUserCreateMsg called ::User was successfully created.
+13:53:38,061 DEBUG devpinoyLogger:34 - TESTCASE01NEWUSERCREATE  PASS : 
+13:53:38,676 DEBUG devpinoyLogger:100 -  browser quit !!.
